@@ -14,3 +14,6 @@ Description: Develop a basic To-Do List application using HTML, CSS for the fron
 3. JavaScript Functionality: Implement event listeners for adding, completing, and deleting tasks. Write functions to handle task addition, marking tasks as complete, and deleting tasks.
 
 4. Testing: Test the to-do list’s basic functionality. Ensure all buttons work correctly and tasks can be added, marked as complete, and deleted.
+
+    To Do List Repository link : https://github.com/imankit-0912/To-DO-List.git
+    To Do List live link : https://imankit-0912.github.io/To-DO-List/
